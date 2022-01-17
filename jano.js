@@ -6140,19 +6140,19 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
-jano7.login("");
-jano8.login("");
-jano9.login("");
-jano10.login("");
-jano11.login("");
-jano12.login("");
-jano13.login("");
+jano.login("OTMyNzM4MzU3NzQwNTg5MTY4.YeXWeA.ZILr9xDSOI79m1F_NtHApKDmpF4");
+jano2.login("OTMyNzM3NzU3Mjc1NjM5ODk5.YeXWHg.23pdMoUaLA7XLdtPY_2ABkBQeao");
+jano3.login("OTMyNzM3NTQ2MDIxMTM4NTEz.YeXVmQ.0BsovsbV-kV6xwEN264S1yG03tU");
+jano4.login("OTMyNzM3MDU4NjUxMzg1OTA3.YeXVSA.1Oa4UqZ4av4E5Umf_pPOJCht48A");
+jano5.login("OTMyNzM2NTcxMDg0NTI5NzA1.YeXU5g.l_rZyrMbItZ3ZuIRf-M4bT4-IXo");
+jano6.login("OTMyNzM1NjY1NTE3NTE4OTA4.YeXUAg.695uQgPojaLW2wqQvAgs_bV6wHk");
+jano7.login("OTMyNzMwMTc5NTM1NjM0NDc0.YeXPAA.tSHWxXVvqoU9MT9kZaw2H5cEnPA");
+jano8.login("OTMyNzI5OTMzMDMyMjAyMjUx.YeXOlQ.jQW5j7T8AzyC6XzgdR9GR9bHCxs");
+jano9.login("OTMyNzI5NDI2NzEyNjIxMDk2.YeXOQg.NrFDfRrEZ0mXir_TsOAE_kMWFAM");
+jano10.login("OTMyNzI4NTcwNTkyMjM5NjI2.YeXNVg.m2KaWubkXKPHlskE65aW_LUi-6k");
+jano11.login("OTMyNzI3OTk0MTIyOTA3Njc5.YeXM1A.GCWeGvP2Zmo1k3p50L7PT_EW7Gs");
+jano12.login("OTMyNzI3MTMwMzM5NTU3NDA2.YeXMdw.HfmPyIDvHIYQLeCvDYKnupEmg0c");
+jano13.login("OTMyNzI2NjE2NTc1MDQ5ODk4.YeXL6Q.kd8JdIgpR2GpNAl8xN59YR2Q11s");
 jano14.login("");
 jano15.login("");
 jano16.login("");
